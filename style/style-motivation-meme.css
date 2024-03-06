@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: black;
+
+}
+
+#div-borda {
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    color: white;
+    text-align: center;
+    font-family: "Josefin Sans",sans-serif;
+    
+
+}
+img {
+    border: 5px solid white;
+    width: 40%;
+}
+h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    
+    
+}
+p {
+    font-weight: 100;
+}
